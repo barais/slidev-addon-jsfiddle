@@ -45,7 +45,7 @@ addons:
 
 ## Components
 
-### QRCode
+### Jsfiddle
 
 ```vue
 <Jsfiddle id="barais/0arqgyw2" width="100%" height="350" /
